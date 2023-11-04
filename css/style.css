@@ -88,7 +88,7 @@ figure .pizza-image img {
 
 .image-text-overlay {
     position: relative;
-    width: 100%; /* or any other size */
+    width: 100%;
 }
 .image-text-overlay img {
     width: 100%;
@@ -98,7 +98,7 @@ figure .pizza-image img {
     position: absolute;
     top: 0;
     left: 0;
-    /* other styling as needed */
+
 }
 .profile-picture {
     display: flex;
